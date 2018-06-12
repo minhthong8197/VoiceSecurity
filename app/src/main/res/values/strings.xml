@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VoiceSecurity</string>
+    <string name="student_name1">Nguyễn Minh Thông</string>
+    <string name="student_name2">Trần Huỳnh Phiêu</string>
+    <string name="description">Ấn và nói để xác thực .....</string>
+    <string name="btnRegister">New User</string>
+    <string name="AR_register_tittle">Register</string>
+    <string name="AR_edtname_hint">Set new username</string>
+    <string name="AR_txtgetVoice">Tap record icon and talk anything you can</string>
+    <string name="AU_hello">Hello:</string>
+</resources>
